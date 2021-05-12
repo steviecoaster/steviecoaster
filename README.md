@@ -5,7 +5,7 @@ PS | 1:08 PM | Choco Stuff> Get-GithubBio
 
 Name        : Stephen Valdinger
 Company     : Chocolatey Software
-Title       : Sr. Tech Support Engineer
+Title       : Sr. Solution Engineer
 Hobbies     : {woodworking, fishing, music}
 Description : Hi! I'm Stephen! I'm passionate about PowerShell, and software automation. I also thoroughly enjoy 
 helping other level up their skillsets,either directly by sharing my knowledge, or by connecting them to someone 
